@@ -1,0 +1,6 @@
+{
+  "name": "Scorecard Points View",
+  "icon": "Target",
+  "description": "Examine point-based allocation tables and test borrower scores using an interactive credit simulator.",
+  "route": "/scorecard_points"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Bivariate Analysis",
+  "icon": "GitFork",
+  "description": "Identify pairwise correlation indicators, calculate Information Value (IV), and evaluate default monotonicity.",
+  "route": "/bivariate"
+}

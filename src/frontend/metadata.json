@@ -1,0 +1,6 @@
+{
+  "name": "FNB DataQuest 2026",
+  "description": "FNB-styled modular banking credit risk analytics dashboard featuring EDA, Univariate, Bivariate, Classification Trees, and Logistic Regression with hot-pluggable layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

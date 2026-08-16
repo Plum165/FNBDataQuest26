@@ -1,0 +1,6 @@
+{
+  "name": "Univariate Analysis",
+  "icon": "BarChart3",
+  "description": "Explore individual credit risk variables, missing counts, and bin weight-of-evidence (WoE).",
+  "route": "/univariate"
+}

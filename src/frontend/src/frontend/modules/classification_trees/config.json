@@ -1,0 +1,6 @@
+{
+  "name": "Classification Trees",
+  "icon": "Network",
+  "description": "Visualize hierarchical credit segmentation rules and splits to isolate high-default loan pools.",
+  "route": "/classification_trees"
+}

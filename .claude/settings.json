@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import docx; print\\('python-docx available'\\)\")",
+      "Bash(pip install *)",
+      "Bash(python generate_classification_trees_doc.py)",
+      "Bash(python generate_univariate_doc.py)",
+      "Bash(python generate_bivariate_doc.py)"
+    ]
+  }
+}

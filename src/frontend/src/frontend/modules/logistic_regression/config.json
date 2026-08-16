@@ -1,0 +1,6 @@
+{
+  "name": "Logistic Regression",
+  "icon": "LineChart",
+  "description": "Formulate predictive credit score algorithms. Interactively toggle variables to see model coefficients and validation charts.",
+  "route": "/logistic_regression"
+}
